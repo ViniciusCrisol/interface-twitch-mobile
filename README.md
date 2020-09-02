@@ -5,6 +5,7 @@
 ### Description 🚀
 
 - 📙 Twitch mobile UI clone;
+- 💡 Theme switcher;
 - 🚀 Class based: https://www.youtube.com/watch?v=bJVp_vlvMwQ
 
 <p align="center">
