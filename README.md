@@ -4,7 +4,7 @@
 
 ### Description 🚀
 
-- 📙 Twitch home page UI clone;
+- 📙 Twitch mobile UI clone;
 - 🚀 Class based: https://www.youtube.com/watch?v=bJVp_vlvMwQ
 
 <p align="center">
