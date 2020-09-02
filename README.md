@@ -1,11 +1,11 @@
 # 📌Twitch interface 
 
-### 📋 This project was developed with React Native & Styled-Components.
+### 📋 This project was developed with Expt(React-Native) & Styled-Components.
 
 ### Description 🚀
 
-- 📙 Twitch mobile UI clone;
 - 💡 Theme switcher;
+- 📙 Twitch mobile UI clone;
 - 🚀 Class based: https://www.youtube.com/watch?v=bJVp_vlvMwQ
 
 <p align="center">
